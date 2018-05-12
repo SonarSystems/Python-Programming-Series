@@ -1,5 +1,3 @@
-# cook your dish here
-
 var1 = 500
 var2 = 45.68
 var3 = "Hello World"
