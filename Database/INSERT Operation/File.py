@@ -17,6 +17,4 @@ try:
 except:
    db.rollback()
 
-cursor.execute(sql)
-
 db.close()
