@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 import tkinter
-top = tkinter.Tk()
+window = tkinter.Tk()
 
 
 
-top.mainloop()
+window.mainloop()
